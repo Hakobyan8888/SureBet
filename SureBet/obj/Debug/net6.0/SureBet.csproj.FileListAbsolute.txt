@@ -1,0 +1,17 @@
+C:\Users\hakobyan\source\repos\SureBet\SureBet\bin\Debug\net6.0\SureBet.exe
+C:\Users\hakobyan\source\repos\SureBet\SureBet\bin\Debug\net6.0\SureBet.deps.json
+C:\Users\hakobyan\source\repos\SureBet\SureBet\bin\Debug\net6.0\SureBet.runtimeconfig.json
+C:\Users\hakobyan\source\repos\SureBet\SureBet\bin\Debug\net6.0\SureBet.dll
+C:\Users\hakobyan\source\repos\SureBet\SureBet\bin\Debug\net6.0\SureBet.pdb
+C:\Users\hakobyan\source\repos\SureBet\SureBet\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\hakobyan\source\repos\SureBet\SureBet\obj\Debug\net6.0\SureBet.csproj.AssemblyReference.cache
+C:\Users\hakobyan\source\repos\SureBet\SureBet\obj\Debug\net6.0\SureBet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hakobyan\source\repos\SureBet\SureBet\obj\Debug\net6.0\SureBet.AssemblyInfoInputs.cache
+C:\Users\hakobyan\source\repos\SureBet\SureBet\obj\Debug\net6.0\SureBet.AssemblyInfo.cs
+C:\Users\hakobyan\source\repos\SureBet\SureBet\obj\Debug\net6.0\SureBet.csproj.CoreCompileInputs.cache
+C:\Users\hakobyan\source\repos\SureBet\SureBet\obj\Debug\net6.0\SureBet.csproj.CopyComplete
+C:\Users\hakobyan\source\repos\SureBet\SureBet\obj\Debug\net6.0\SureBet.dll
+C:\Users\hakobyan\source\repos\SureBet\SureBet\obj\Debug\net6.0\refint\SureBet.dll
+C:\Users\hakobyan\source\repos\SureBet\SureBet\obj\Debug\net6.0\SureBet.pdb
+C:\Users\hakobyan\source\repos\SureBet\SureBet\obj\Debug\net6.0\SureBet.genruntimeconfig.cache
+C:\Users\hakobyan\source\repos\SureBet\SureBet\obj\Debug\net6.0\ref\SureBet.dll
